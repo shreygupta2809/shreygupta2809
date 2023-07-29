@@ -8,3 +8,6 @@ This is ***Shrey Gupta***. I am a graduate student at the Machine Learning Depar
 
 ## Reach Me On:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shreygupta2809/)
+
+:e-mail:[ Email](mailto:shreygup@cs.cmu.edu)
+
